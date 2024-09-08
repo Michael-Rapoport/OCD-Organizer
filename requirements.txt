@@ -1,0 +1,7 @@
+flask==2.0.1
+PyQt5==5.15.4
+PyQtWebEngine==5.15.4
+openai==0.27.0
+transformers==4.11.3
+requests==2.26.0
+cryptography==3.4.7
