@@ -1,6 +1,6 @@
-# AI File Organizer
+# OCD-Organizer
 
-AI File Organizer is a powerful desktop application that uses artificial intelligence to help you organize your files efficiently. It analyzes your directory structure and suggests optimal organization strategies based on file types, naming conventions, and content.
+OCD-Organizer is a powerful desktop application that uses artificial intelligence to help you organize your files efficiently. It analyzes your directory structure and suggests optimal organization strategies based on file types, naming conventions, and content.
 
 ## Features
 
@@ -16,8 +16,8 @@ AI File Organizer is a powerful desktop application that uses artificial intelli
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-file-organizer.git
-   cd ai-file-organizer
+   git clone https://github.com/michael-rapoport/OCD-Organizer.git
+   cd OCD-Organizer
    ```
 
 2. Create a virtual environment and activate it:
@@ -42,7 +42,7 @@ AI File Organizer is a powerful desktop application that uses artificial intelli
 
 ## Usage
 
-To run the AI File Organizer, execute the following command:
+To run OCD-Organizer execute the following command:
 
 ```
 python main.py
@@ -62,7 +62,8 @@ See the `plugins/file_stats.py` for an example.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! You can send crypto to :
+BTC 
 
 ## License
 
