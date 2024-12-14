@@ -3,5 +3,5 @@ PyQt5==5.15.4
 PyQtWebEngine==5.15.4
 openai==0.27.0
 transformers==4.11.3
-requests==2.26.0
+requests==2.32.2
 cryptography==3.4.7
